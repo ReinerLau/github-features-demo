@@ -1,0 +1,14 @@
+{
+  "name": "@reinerlau/test",
+  "version": "1.0.0",
+  "description": "解锁 github 新玩法",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
